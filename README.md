@@ -144,6 +144,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2408.13516)[[code]](https://github.com/YoojLee/AnoPLe)
 + MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness [[CVPR 2026 Findings]](https://arxiv.org/abs/2507.02314)[[code]](https://github.com/SpatialAILab/MAGIC-Anomaly-generation)
 + AnomalyVFM - Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [[CVPR 2026]](https://arxiv.org/abs/2601.20524)[[code]](https://github.com/MaticFuc/AnomalyVFM/tree/main)
++ CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2508.03447)[[code]](https://github.com/cqylunlun/CoPS)
 
 ## ICLR 2026
 + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
@@ -902,6 +903,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection [[2025]](https://arxiv.org/abs/2510.26464)
  + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
  + Dual Distillation for Few-Shot Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=tRO6G20Qba)
+ + CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2508.03447)[[code]](https://github.com/cqylunlun/CoPS)
   
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
