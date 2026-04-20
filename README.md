@@ -781,7 +781,6 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[TII 2025]](https://arxiv.org/abs/2412.17263)[[code]](https://github.com/caoyunkang/VarAD)
 + Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)[[code]](https://github.com/fuyunwang/DPDL)
 + Self-Tuning Self-Supervised Image Anomaly Detection [[KDD 2025]](https://arxiv.org/abs/2306.12033) [[code]](https://github.com/jaeminyoo/ST-SSAD)
-+ When Textures Deceive: Weakly Supervised Industrial Anomaly Detection with Adapted-Loss (AL-CycleGAN) [[CVPR 2025 W (VAND)]](https://openaccess.thecvf.com/content/CVPR2025W/VAND/papers/Nakkina_When_Textures_Deceive_Weakly_Supervised_Industrial_Anomaly_Detection_with_Adapted-Loss_CVPRW_2025_paper.pdf)[[code]](https://github.com/ganatma/AL-CycleGAN)
 
 ### More Abnormal Samples
 + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/document/9885240)
